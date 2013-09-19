@@ -1,4 +1,4 @@
-24HSolarEnergy
+24H 
 ==============
 
 Site2Site Project
